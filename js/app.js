@@ -2,15 +2,15 @@ const container = document.querySelector(".container");
 const coffees = [
   {
     name: "Paseo La granja",
-    image: "images/coffee1.gif"
+    image: "images/coffee111.svg"
   },
   {
     name: "Chichiriviche",
-    image: "images/coffee2.gif"
+    image: "images/coffee112.svg"
   },
   {
     name: "Explicabo",
-    image: "images/coffee3.gif"
+    image: "images/coffee113.svg"
   },
   {
     name: "Rchitecto",
