@@ -53,9 +53,9 @@ const assets = [
   "/images/sem/3x7.gif",
   "/images/sem/3x8.gif",
   "/images/sem/3x9.gif",
-  "/images/coffee111.gif",// IMAGENES PRINCIPAL
-  "/images/coffee112.gif",
-  "/images/coffee113.gif",
+  "/images/coffee111.svg",// IMAGENES PRINCIPAL
+  "/images/coffee112.svg",
+  "/images/coffee113.svg",
   "/images/coffee4.gif",
   "/images/coffee5.gif",
   "/images/coffee6.gif",
